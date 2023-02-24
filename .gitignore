@@ -1,0 +1,9 @@
+
+__pycache__/
+.env
+.venv
+venv
+database-container/data
+__pycache__
+
+
